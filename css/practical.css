@@ -1,0 +1,70 @@
+* {
+	margin: 0;
+	padding: 0;
+
+}
+._side ul {
+	list-style-type: none;
+	padding: 30px;
+	margin-top:40px;
+
+}
+
+._side ul li {
+	border-bottom: 5px solid darkslateblue;
+	padding: 20px;
+}
+
+._side ul li a {
+	text-decoration: none;
+	color:ghostwhite;
+	font-size: 30px;
+
+}
+
+._side a:hover {
+	
+	margin-left:20px;
+}
+
+.coltop {
+
+	background: rgb(60, 55, 175);
+	height: 300em;
+	width: 100px;
+
+}
+
+.coltop ._side img {
+	
+	height: 65px;
+	width: 65px;
+	cursor: pointer;
+}
+
+.coltop ._side img:hover {
+	
+	height: 75px;
+	width: 70px;
+	cursor: pointer;
+}
+
+#img2 {
+	
+	position: relative;
+	left:220px;
+	top:10px;
+}
+
+.col table, ._money, ._multiply {
+	font-family: Courier;
+	font-size: 30px;
+	margin-left:30px;
+}
+hr {
+	border: 1px dashed darkgray;
+}
+
+.col .clr1 {
+	color:darkblue;
+}
